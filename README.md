@@ -6,6 +6,7 @@
     - Bessel filter
   - Data output to .h5
   - Data output to .csv
+  - Create 3D geometry, and plot contours on geometry
 - Matlab codes for assignments of MECH835 Introduction to Computational Fluid Dynamics
   - Differential equations
   - Vortex
